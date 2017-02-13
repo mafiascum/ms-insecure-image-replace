@@ -1,0 +1,30 @@
+{
+  "name": "ms-insecure-image-replace",
+  "version": "1.0.0",
+  "description": "MS Insecure Image Replace",
+  "main": "index.js",
+  "dependencies": {
+    "bbcode-parser": "^1.0.10",
+    "bluebird": "^3.4.7",
+    "minimist": "^1.2.0",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:mafiascum/ms-insecure-image-replace.git"
+  },
+  "keywords": [
+    "mafiascum",
+    "image",
+    "replace",
+    "https",
+    "insecure"
+  ],
+  "author": "Charlie Ciccia",
+  "license": "MIT"
+}
